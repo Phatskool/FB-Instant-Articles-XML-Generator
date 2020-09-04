@@ -40,4 +40,4 @@ Under the tools tab, select Development RSS Feed or Production RSS Feed dependin
  
  Questions? custom work?
  Contact me for info!
- 
+ https://gr.linkedin.com/in/giannis-mihelakis-4bb710177
