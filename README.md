@@ -28,7 +28,7 @@ Go to Instant Articles > Configuration on your left,
  1. Visit https://www.facebook.com/instant_articles/signup
  2. Register your page,
  3. Claim your url by uploading a meta tag on your  header file,
- it should look like ```<meta property="fb:pages" content="10110101010" />```
+ it should look something like ```<meta property="fb:pages" content="10110101010" />```
  4. Go to your fb page, select tab: "Publishing Tools",
 Go to Instant Articles > Configuration on your left,
 Under the tools tab, select Development RSS Feed or Production RSS Feed depending if the xml has no errors and is ready to submit
