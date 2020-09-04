@@ -6,10 +6,9 @@
  
 2. change facebookfeed.php settings (db,passwords,desired db tables etc)
 
-3 
-a. Visit facebookfeed.php page on your domain path
+3. Visit facebookfeed.php page on your domain path
 
-b. Alternativeley you can use a cron job from your server and "run" the code  e.g. once a day
+Alternativeley you can use a cron job from your server and "run" the code  e.g. once a day
 
 4. Voila! XML is ready to be submited on facevook
 
