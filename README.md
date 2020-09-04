@@ -4,7 +4,7 @@
  Install Instructions:
 1. Download zip files and unnzip everything  via FTP in your plugins directory/path in your server.
  
-2. change facebookfeed.php settings (db,passwords,desired db tables etc)
+2. Change facebookfeed.php settings (db,passwords,desired db tables etc)
 
 3. Visit facebookfeed.php page on your domain path
 
