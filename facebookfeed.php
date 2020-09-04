@@ -24,7 +24,7 @@ ob_start();
 
 $output = '<rss version="2.0" xmlns:content="http://purl.org/rss/2.0/modules/content/" encoding="UTF-8">' . "\n";
 $channelstart = '<channel>';
-$pageinfo = '<title>TITLE OF WEBSITE</title><link>linktoyoursite.com</link><description>WEBSITES DESCRIPTION</description>';
+$pageinfo = '<title>TITLE OF WEBSITE</title><link>https://yourlink.com</link><description>WEBSITES DESCRIPTION</description>';
 $channelend= '</channel>';
 $buildtime = new DateTime('now');
 
