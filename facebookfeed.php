@@ -53,7 +53,7 @@ $title = $info['title'];//instead of title, use your table's title column
 
 <item>
 	<title><? echo $title;?></title>
-	<link>http://flashnews.gr/post/<? echo $info['id']; ?>/<? echo $info['slug']; ?></link><!--Instead of id and slug use your table's id and slug column-->
+	<link>https://yourlink.com/<? echo $info['id']; ?>/<? echo $info['slug']; ?></link><!--Instead of id and slug use your table's id and slug column-->
 	<content:encoded><![CDATA[<? echo html_entity_decode(strip_tags($content))?>]]></content:encoded>
 	<description><![CDATA[<? echo html_entity_decode(strip_tags($description));?>]]></description>
 	<pubDate><?echo $datetime->format('c')?></pubDate>
