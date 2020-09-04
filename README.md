@@ -10,23 +10,25 @@
 
 Alternativeley you can use a cron job from your server and "run" the code  e.g. once a day
 
-4. Voila! XML is ready to be submited on facevook
+4. Voila! XML is ready to be submited on Facebook
 
 More information about the exact lines you need to change, can be found in facebookfeed.php comments
  
  FAQ:
- Missing Logo: 
+ 
+ A. Missing Logo: 
+ 
  Do not forget to upload a logo on facebook:
 Go to your fb page, select tab: "Publishing Tools",
 Go to Instant Articles > Configuration on your left,
  Under the tools section you will find Styles tab,  click on default,
  select Logo from the left of your screen and upload your logo :)
  
- I cannot see Instant Articles on my publishing tools.
+ B. I cannot see Instant Articles on my publishing tools.
  1. Visit https://www.facebook.com/instant_articles/signup
  2. Register your page,
  3. Claim your url by uploading a meta tag on your  header file,
- it should look like <meta property="fb:pages" content="10110101010" />
+ it should look like ```<meta property="fb:pages" content="10110101010" />```
  4. Go to your fb page, select tab: "Publishing Tools",
 Go to Instant Articles > Configuration on your left,
 Under the tools tab, select Development RSS Feed or roduction RSS Feed depending if the xml has no errors and is ready to submit
