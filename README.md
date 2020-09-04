@@ -10,7 +10,7 @@
 
 Alternativeley you can use a cron job from your server and "run" the code  e.g. once a day
 
-4. Voila! XML is ready to be submited on Facebook
+4. Voila! facebook.xml is ready to be submited on Facebook
 
 More information about the exact lines you need to change, can be found in facebookfeed.php comments
  
@@ -32,9 +32,10 @@ Go to Instant Articles > Configuration on your left,
  4. Go to your fb page, select tab: "Publishing Tools",
 Go to Instant Articles > Configuration on your left,
 Under the tools tab, select Development RSS Feed or Production RSS Feed depending if the xml has no errors and is ready to submit
-5. Press save
-6. Check for errors
-7. Under "Step 2 : Submit for review", click the Submit Button
+ 5. Submit your xml (full-path-to/facebook.xml)
+ 6. Press save
+ 7. Check for errors
+ 8. Under "Step 2 : Submit for review", click the Submit Button
  
  
  Questions? custom work?
