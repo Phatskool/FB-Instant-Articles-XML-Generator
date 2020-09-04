@@ -31,10 +31,12 @@ Go to Instant Articles > Configuration on your left,
  it should look like ```<meta property="fb:pages" content="10110101010" />```
  4. Go to your fb page, select tab: "Publishing Tools",
 Go to Instant Articles > Configuration on your left,
-Under the tools tab, select Development RSS Feed or roduction RSS Feed depending if the xml has no errors and is ready to submit
+Under the tools tab, select Development RSS Feed or Production RSS Feed depending if the xml has no errors and is ready to submit
 5. Press save
 6. Check for errors
-7. Under "Step 2 : Submit for review", click the ΣSubmit Button
+7. Under "Step 2 : Submit for review", click the Submit Button
+ 
+ 
  Questions? custom work?
  Contact me for info!
  
